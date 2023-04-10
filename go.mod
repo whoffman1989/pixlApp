@@ -5,6 +5,7 @@ go 1.20
 require (
 	fyne.io/fyne v1.4.3
 	fyne.io/fyne/v2 v2.3.3
+	github.com/lusingander/colorpicker v0.7.1
 )
 
 require (
@@ -26,6 +27,7 @@ require (
 	github.com/stretchr/testify v1.8.0 // indirect
 	github.com/yuin/goldmark v1.4.13 // indirect
 	golang.org/x/image v0.0.0-20220601225756-64ec528b34cd // indirect
+	golang.org/x/mobile v0.0.0-20211207041440-4e6c2922fdee // indirect
 	golang.org/x/net v0.0.0-20220722155237-a158d28d115b // indirect
 	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
 	golang.org/x/text v0.6.0 // indirect
